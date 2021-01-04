@@ -1,11 +1,13 @@
 # crud-usuario-login
 Simples app para incluir usuario e login e logout
 
-## faltam conluir....
+## faltam concluir crud editar e listagem
+
+## Após o clone, excutar as instruções seguintes:
 
 ## composer install
 
-## Aleterar .env
+## Alterar .env
 
 - Datebase, username, password:
 
@@ -15,7 +17,11 @@ Simples app para incluir usuario e login e logout
 
 ## Criar um Banco com nome: usuarios-login
 
-## Para criar as tabelas rodar:
+## Para criar as tabelas:
 
 - php artisan migrate
+
+## Para rodar:
+
+- php artisan serve
 
